@@ -72,7 +72,7 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. single IMG BACKGROUND */
 .bg-img-SINGLE {
-background-image: url(../img/background/SINGLE-bg.jpg);
+background-image: url(../img/background/Untitled-2.jpg);
 }
 
 
@@ -112,15 +112,15 @@ background-image: url(../img/background/parallax-bg.jpg);
 
 /* 1.5. sections IMG BACKGROUND */
 .bg-about {
-background-image: url(../img/background/bg-about.jpg);
+background-image: url(../img/background/1616982764-hoa-5-6011.jpeg);
 }
 
 .bg-services {
-background-image: url(../img/background/bg-services.jpg);
+background-image: url(../img/background/1616982764-hoa-4-1717.jpeg);
 }
 
 .bg-contact {
-background-image: url(../img/background/bg-contact.jpg);
+background-image: url(../img/background/1616982764-hoa-2-194.jpeg);
 }
 
 
@@ -2069,7 +2069,7 @@ z-index: 0; z-index: 1;
 
 
 /* 25. film grain */
-#film-grain {
+/* #film-grain {
 position: fixed;
 height: 100%;
 width: 100%;
@@ -2081,11 +2081,11 @@ background: url(../img/film-grain.gif) repeat top left;
 filter: alpha(opacity=10);
 -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=10)";
 z-index: 0; z-index: 1;
-}
+} */
 
 
 /* 26. shade */
-#shade {
+/* #shade {
 position: fixed;
 height: 100%;
 width: 100%;
@@ -2099,13 +2099,13 @@ background: -o-linear-gradient(left,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 50%,rgba
 background: -ms-linear-gradient(left,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,0) 100%);
 background: linear-gradient(to right,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 50%,rgba(0,0,0,0) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=1 );
-}
+} */
 
-@media only screen and (max-width: 640px) {
+/* @media only screen and (max-width: 640px) {
   #shade {
     background: rgba(0, 0, 0, .4);
   }
-}
+} */
 
 
 /* 27. sections panel */
@@ -2913,18 +2913,18 @@ color: #2e2e2e;
 }
 
 h1.post-title.post-title-all-main-title {
-margin: -12px 0 -2px -2px;
+margin: 22px 0 -2px -2px;
 }
 
 @media only screen and (max-width: 995px) {
   h1.post-title.post-title-all-main-title {
-    margin: -7px 0 -1px -1px;
+    margin: 22px 0 -1px -1px;
   }
 }
 
 @media only screen and (max-width: 640px) {
   h1.post-title.post-title-all-main-title {
-    margin: -6px 0 0 -1px;
+    margin: 10px 0 0 -1px;
   }
 }
 
