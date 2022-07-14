@@ -1721,7 +1721,7 @@ font-size: 20px;
 h2.section-heading-home {
 position: relative;
 font-family: 'Oswald', sans-serif;
-font-size: 18px;
+font-size: 30px;
 font-style: normal;
 font-weight: 400;
 text-transform: uppercase;
@@ -1735,19 +1735,19 @@ z-index: 10;
 
 @media only screen and (max-width: 1200px) {
   h2.section-heading-home {
-    font-size: 17px;
+    font-size: 25px;
   }
 }
 
 @media only screen and (max-width: 995px) {
   h2.section-heading-home {
-    font-size: 16px;
+    font-size: 25px;
   }
 }
 
 @media only screen and (max-width: 640px) {
   h2.section-heading-home {
-	font-size: 15px;
+	font-size: 25px;
 	margin-bottom: 1px;
   }
 }
@@ -2067,7 +2067,7 @@ z-index: 1;
 
 
 /* 24. rain */
-#rain {
+/* #rain {
 position: fixed;
 height: 100%;
 width: 100%;
@@ -2079,7 +2079,7 @@ background: url(../img/rain.gif) repeat top left;
 filter: alpha(opacity=40);
 -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
 z-index: 0; z-index: 1;
-}
+} */
 
 
 /* 25. film grain */
