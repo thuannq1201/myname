@@ -68,6 +68,20 @@
   40. divider
 */
 
+/* csss thêm  */
+.halves-all .half-2::-webkit-scrollbar {
+  width: 4px;
+}
+.halves-all .half-2::-webkit-scrollbar-thumb {
+  background: #ff264a;
+}
+
+
+
+
+
+
+
 
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. single IMG BACKGROUND */
@@ -1108,7 +1122,7 @@ letter-spacing: 0.05em;
 font-style: normal;
 text-transform: uppercase;
 text-align: center;
-color: #999;
+color: rgb(240, 240, 240);
 background: none;
 border: none;
 width: auto;
@@ -1250,7 +1264,7 @@ padding-left: 10px;
 }
 
 .left-element li span {
-color: #999;
+color: #fff;
 padding-left: 10px;
 }
 
@@ -2033,7 +2047,7 @@ background: #111;
 position: fixed;
 width: 100%;
 height: 100%;
-border: 90px solid rgba(0, 0, 0, .5);
+border: 75px solid rgba(0, 0, 0, .1);
 z-index: 1;
 }
 
@@ -2427,6 +2441,7 @@ background: #e0e0e0;
 
 .quote-inner-inner {
 margin-left: 35px;
+font-weight: 400;
 }
 
 @media only screen and (max-width: 640px) {
