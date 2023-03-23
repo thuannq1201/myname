@@ -87,7 +87,7 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. single IMG BACKGROUND */
 .bg-img-SINGLE {
-background-image: url(../img/background/Untitled-2.jpg);
+background-image: url(../img/background/bg-main.jpg);
 }
 
 
@@ -2590,11 +2590,13 @@ color: #2e2e2e;
 .logo {
 position: absolute;
 display: block;
-width: 59px;
-height: 35px;
-top: 31px;
-left: 38px;
-background: url(../img/logo.png) no-repeat;
+width: 79px;
+/* width: 59px; */
+height: 55px;
+top: 10%;
+left: 6%;
+font-size: 55px;
+/* background: url(../img/logo.png) no-repeat; */
 }
 
 @media only screen and (max-width: 640px) {
